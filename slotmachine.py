@@ -36,7 +36,7 @@ for item in output_column:
     for box in item:
         print(box,end='|')
     print('\n')
-            
+#added for testing.           
             
 
 def deposit():
